@@ -8,7 +8,6 @@ const Top = Styled.div`
     color:white;
     padding:.5rem;
     text-align : center;
-    
 `
 
 function Header() {
